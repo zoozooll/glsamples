@@ -1,0 +1,7 @@
+include ':app'
+include ':sample1_7_5'
+include ':sample1_6_5'
+include ':sample1_6_6'
+include ':sample1_6_7'
+include ':sample1_6_8'
+include ':sample1_6_9'

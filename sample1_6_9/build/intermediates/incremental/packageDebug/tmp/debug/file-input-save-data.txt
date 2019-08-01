@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Thu Jul 25 15:10:25 CST 2019
+1.base=D\:\\workspaces\\svn\\GLSamples\\sample1_6_9\\build\\intermediates\\merged_assets\\debug\\out
+2.path=classes.dex
+0.baseType=DIRECTORY
+2.base=D\:\\workspaces\\svn\\GLSamples\\sample1_6_9\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+2.set=DEX
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=vertex.sh
+0.set=ASSET
+0.base=D\:\\workspaces\\svn\\GLSamples\\sample1_6_9\\build\\intermediates\\merged_assets\\debug\\out
+2.baseType=DIRECTORY
+1.path=frag.sh
