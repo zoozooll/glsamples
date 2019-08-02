@@ -1,4 +1,4 @@
-#Thu Aug 01 17:05:41 CST 2019
+#Fri Aug 02 17:14:58 CST 2019
 base.0=D\:\\workspaces\\svn\\GLSamples\\sample1_6_10\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
 path.0=classes.dex
 renamed.0=classes.dex
