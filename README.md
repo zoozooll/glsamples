@@ -9,10 +9,11 @@
 #### 1.6.9    [Point Light - normal vector in fragment shader](https://github.com/zoozooll/glsamples/tree/master/sample1_6_9)
 #### 1.6.10    [Point Light - normal vector in vertex shader 3](https://github.com/zoozooll/glsamples/tree/master/sample1_6_10)
 
-### 1.7 
+### 1.7    Texture
+#### 1.7.5    [Multiple Textures](https://github.com/zoozooll/glsamples/tree/master/sample1_7_5) 
 <!--stackedit_data:
 eyJwcm9wZXJ0aWVzIjoidGl0bGU6IGdsc2FtcGxlXG5hdXRob3
 I6IEFhcm9uIExlZVxudGFnczogJ2FuZHJvaWQsb3BlbmdsZXMn
-XG4iLCJoaXN0b3J5IjpbOTQxMTAzOTY0LC0xNjc1Njk5OTY1XX
-0=
+XG4iLCJoaXN0b3J5IjpbLTIwOTc2ODU5MjIsLTE2NzU2OTk5Nj
+VdfQ==
 -->
