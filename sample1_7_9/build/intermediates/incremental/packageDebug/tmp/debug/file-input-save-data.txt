@@ -1,14 +1,14 @@
 #Internal package file, do not edit.
-#Fri Aug 09 14:08:13 CST 2019
+#Fri Aug 09 14:11:33 CST 2019
 1.base=D\:\\workspaces\\svn\\GLSamples\\sample1_7_9\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
-2.path=frag.sh
+2.path=vertex.vert
 0.baseType=DIRECTORY
 2.base=D\:\\workspaces\\svn\\GLSamples\\sample1_7_9\\build\\intermediates\\merged_assets\\debug\\out
 2.set=ASSET
 1.baseType=DIRECTORY
 count=3
 1.set=DEX
-0.path=vertex.sh
+0.path=frag.frag
 0.set=ASSET
 0.base=D\:\\workspaces\\svn\\GLSamples\\sample1_7_9\\build\\intermediates\\merged_assets\\debug\\out
 2.baseType=DIRECTORY
