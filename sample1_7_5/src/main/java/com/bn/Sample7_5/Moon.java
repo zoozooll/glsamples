@@ -121,10 +121,10 @@ public class Moon {
     //初始化着色器
     public void initShader(MySurfaceView mv) {
         //加载顶点着色器的脚本内容
-        mVertexShader = ShaderUtil.loadFromAssetsFile("vertex_moon.sh", mv.getResources());
+        mVertexShader = ShaderUtil.loadFromAssetsFile("vertex_moon.vert", mv.getResources());
         ShaderUtil.checkGlError("==ss==");
         //加载片元着色器的脚本内容
-        mFragmentShader = ShaderUtil.loadFromAssetsFile("frag_moon.sh", mv.getResources());
+        mFragmentShader = ShaderUtil.loadFromAssetsFile("frag_moon.frag", mv.getResources());
         //基于顶点着色器与片元着色器创建程序
         ShaderUtil.checkGlError("==ss==");
         mProgram = createProgram(mVertexShader, mFragmentShader);

@@ -107,10 +107,10 @@ public class Earth {
 
     public void initShader(MySurfaceView mv) { //初始化着色器
         //加载顶点着色器的脚本内容
-        mVertexShader = ShaderUtil.loadFromAssetsFile("vertex_earth.sh", mv.getResources());
+        mVertexShader = ShaderUtil.loadFromAssetsFile("vertex_earth.vert", mv.getResources());
         ShaderUtil.checkGlError("==ss==");
         //加载片元着色器的脚本内容
-        mFragmentShader = ShaderUtil.loadFromAssetsFile("frag_earth.sh", mv.getResources());
+        mFragmentShader = ShaderUtil.loadFromAssetsFile("frag_earth.frag", mv.getResources());
         //基于顶点着色器与片元着色器创建程序
         ShaderUtil.checkGlError("==ss==");
         mProgram = createProgram(mVertexShader, mFragmentShader);

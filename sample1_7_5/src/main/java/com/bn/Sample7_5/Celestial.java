@@ -50,10 +50,10 @@ public class Celestial {    //表示星空天球的类
 
     public void intShader(MySurfaceView mv) {    //初始化着色器
         //加载顶点着色器的脚本内容
-        mVertexShader = ShaderUtil.loadFromAssetsFile("vertex_xk.sh", mv.getResources());
+        mVertexShader = ShaderUtil.loadFromAssetsFile("vertex_xk.vert", mv.getResources());
         ShaderUtil.checkGlError("==ss==");
         //加载片元着色器的脚本内容
-        mFragmentShader = ShaderUtil.loadFromAssetsFile("frag_xk.sh", mv.getResources());
+        mFragmentShader = ShaderUtil.loadFromAssetsFile("frag_xk.frag", mv.getResources());
         //基于顶点着色器与片元着色器创建程序
         ShaderUtil.checkGlError("==ss==");
         mProgram = createProgram(mVertexShader, mFragmentShader);
