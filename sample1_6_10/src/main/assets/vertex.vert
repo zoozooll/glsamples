@@ -11,15 +11,15 @@ out vec4 vDiffuse;//用于传递给片元着色器的散射光最终强度
 out vec4 vSpecular;//用于传递给片元着色器的镜面反射光最终强度
 //定位光光照计算的方法
 void pointLight(//定位光光照计算的方法
-    in vec3 normal, //法向量
-    inout vec4 ambient, //环境光最终强度
-    inout vec4 diffuse, //散射光最终强度
-    inout vec4 specular, //镜面光最终强度
-    in vec3 lightLocation, //光源位置
-    in vec4 lightAmbient, //环境光强度
-    in vec4 lightDiffuse, //散射光强度
-    in vec4 lightSpecular//镜面光强度
-    ){
+in vec3 normal, //法向量
+inout vec4 ambient, //环境光最终强度
+inout vec4 diffuse, //散射光最终强度
+inout vec4 specular, //镜面光最终强度
+in vec3 lightLocation, //光源位置
+in vec4 lightAmbient, //环境光强度
+in vec4 lightDiffuse, //散射光强度
+in vec4 lightSpecular//镜面光强度
+){
     ambient=lightAmbient;//直接得出环境光的最终强度
     vec3 normalTarget=aPosition+normal;//计算变换后的法向量
     vec3 newNormal=(uMMatrix*vec4(normalTarget, 1)).xyz-(uMMatrix*vec4(aPosition, 1)).xyz;
