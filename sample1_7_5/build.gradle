@@ -8,6 +8,9 @@ android {
         applicationId "com.bn.Sample7_5"
         minSdkVersion 18
         targetSdkVersion 28
+        versionCode 1
+        versionName "v0.1"
+        archivesBaseName = "../../../../../build/${project.name}-$versionName"
     }
 
     buildTypes {

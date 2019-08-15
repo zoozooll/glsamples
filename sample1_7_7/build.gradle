@@ -1,13 +1,16 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 18
+    compileSdkVersion 28
     buildToolsVersion "28.0.3"
 
     defaultConfig {
         applicationId "com.bn.Sample7_7"
         minSdkVersion 18
-        targetSdkVersion 21
+        targetSdkVersion 28
+        versionCode 1
+        versionName "v0.1"
+        archivesBaseName = "../../../../../build/${project.name}-$versionName"
     }
 
     buildTypes {
