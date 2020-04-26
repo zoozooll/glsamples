@@ -1,0 +1,7 @@
+#include "btMultiBody.cpp"
+#include "btMultiBodyConstraint.cpp"
+#include "btMultiBodyConstraintSolver.cpp"
+#include "btMultiBodyDynamicsWorld.cpp"
+#include "btMultiBodyJointLimitConstraint.cpp"
+#include "btMultiBodyJointMotor.cpp"
+#include "btMultiBodyPoint2Point.cpp"

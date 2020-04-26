@@ -1,0 +1,8 @@
+#include "btAlignedAllocator.cpp"
+#include "btConvexHull.cpp"
+#include "btConvexHullComputer.cpp"
+#include "btGeometryUtil.cpp"
+#include "btPolarDecomposition.cpp"
+#include "btQuickprof.cpp"
+#include "btSerializer.cpp"
+#include "btVector3.cpp"

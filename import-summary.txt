@@ -1,0 +1,2480 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From FireBasketBall:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* LICENSE
+From PerlinNoiseTool:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._TexData3D
+* ._bin
+* ._pic
+* ._src
+From Sample10_1:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample10_2:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample10_3:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* proguard.cfg
+From Sample11_1:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample11_2:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample11_3:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample11_3A:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample11_4:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* proguard.cfg
+From Sample11_5:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* proguard.cfg
+From Sample11_6:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample11_6a:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample12_1:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample12_2:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lib
+* ._project.properties
+* ._res
+* ._src
+* lib\
+* lib\._Vuforia.jar
+* lib\Vuforia.jar
+From Sample12_3:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample12_4:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample12_5:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample1_3:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample1_4:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* proguard.cfg
+From Sample1_5:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample1_6:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample2_1:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample2_2:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample2_3:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample2_4:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample2_5:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample2_6:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample2_7:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample3_1:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample3_10:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample3_11:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample3_12:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample3_13:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* proguard.cfg
+From Sample3_14:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample3_15:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample3_16:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample3_2:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample3_3:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample3_4:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample3_5:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample3_5A:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample3_6:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample3_7:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample3_8:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample3_9:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample4_1:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample4_2:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample4_3:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._default.properties
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+* default.properties
+From Sample4_4:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample4_5:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._hs_err_pid1012.log
+* ._hs_err_pid4156.log
+* ._hs_err_pid4972.log
+* ._hs_err_pid6364.log
+* ._hs_err_pid7028.log
+* ._hs_err_pid7092.log
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+* hs_err_pid1012.log
+* hs_err_pid4156.log
+* hs_err_pid4972.log
+* hs_err_pid6364.log
+* hs_err_pid7028.log
+* hs_err_pid7092.log
+From Sample4_6:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample4_7:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* proguard.cfg
+From Sample4_8:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._ic_launcher-web.png
+* ._libs
+* ._lint.xml
+* ._proguard-project.txt
+* ._project.properties
+* ._res
+* ._src
+* ic_launcher-web.png
+* proguard-project.txt
+From Sample5_1:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample5_10:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample5_11:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample5_12:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample5_2:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample5_3_V1:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample5_3_V2:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample5_3_V3:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample5_4:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample5_5:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample5_6:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample5_7:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample5_8:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample5_9_V1:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample5_9_V2:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample6_1:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* proguard.cfg
+From Sample6_2:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* proguard.cfg
+From Sample6_3:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* proguard.cfg
+From Sample6_4:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample6_5:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From Sample6_6:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._ic_launcher-web.png
+* ._libs
+* ._proguard-project.txt
+* ._project.properties
+* ._res
+* ._src
+* ic_launcher-web.png
+* proguard-project.txt
+From Sample6_7:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._ic_launcher-web.png
+* ._libs
+* ._proguard-project.txt
+* ._project.properties
+* ._res
+* ._src
+* ic_launcher-web.png
+* proguard-project.txt
+From Sample7_1:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lib
+* ._project.properties
+* ._res
+* ._src
+* lib\
+* lib\._jbullet.jar
+* lib\._vecmath.jar
+* lib\jbullet.jar
+* lib\vecmath.jar
+From Sample7_2:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lib
+* ._project.properties
+* ._res
+* ._src
+* lib\
+* lib\._jbullet.jar
+* lib\._vecmath.jar
+* lib\jbullet.jar
+* lib\vecmath.jar
+From Sample7_3:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lib
+* ._project.properties
+* ._res
+* ._src
+* lib\
+* lib\._jbullet.jar
+* lib\._vecmath.jar
+* lib\jbullet.jar
+* lib\vecmath.jar
+From Sample7_4:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lib
+* ._project.properties
+* ._res
+* ._src
+* lib\
+* lib\._jbullet.jar
+* lib\._vecmath.jar
+* lib\jbullet.jar
+* lib\vecmath.jar
+From Sample7_5:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._hs_err_pid6676.log
+* ._lib
+* ._project.properties
+* ._res
+* ._src
+* hs_err_pid6676.log
+* lib\
+* lib\._jbullet.jar
+* lib\._vecmath.jar
+* lib\jbullet.jar
+* lib\vecmath.jar
+From Sample7_6:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lib
+* ._project.properties
+* ._res
+* ._src
+* lib\
+* lib\._jbullet.jar
+* lib\._vecmath.jar
+* lib\jbullet.jar
+* lib\vecmath.jar
+From Sample7_7:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lib
+* ._project.properties
+* ._res
+* ._src
+* lib\
+* lib\._jbullet.jar
+* lib\._vecmath.jar
+* lib\jbullet.jar
+* lib\vecmath.jar
+From Sample7_8:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lib
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* lib\
+* lib\._android-support-v4.jar
+* lib\._jbullet.jar
+* lib\._vecmath.jar
+* lib\android-support-v4.jar
+* lib\jbullet.jar
+* lib\vecmath.jar
+* proguard.cfg
+From Sample8_1:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample8_10:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample8_11:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample8_12:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample8_13:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample8_14:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample8_14A:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample8_15:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample8_16:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample8_17:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample8_2:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample8_3:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample8_4:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample8_5:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample8_6:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample8_7:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample8_8:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample8_9:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample9_1:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* proguard.cfg
+From Sample9_2:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* proguard.cfg
+From Sample9_3:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._lint.xml
+* ._project.properties
+* ._res
+* ._src
+From Sample9_4:
+* ._.classpath
+* ._.cproject
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._LICENSE
+* ._assets
+* ._bin
+* ._gen
+* ._jni
+* ._lint.xml
+* ._proguard.cfg
+* ._project.properties
+* ._res
+* ._src
+* LICENSE
+* proguard.cfg
+From Sample9_5:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._ic_launcher-web.png
+* ._libs
+* ._lint.xml
+* ._proguard-project.txt
+* ._project.properties
+* ._res
+* ._src
+* ic_launcher-web.png
+* proguard-project.txt
+From SampleVAO:
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+From SampleVBO:
+* .DS_Store
+* ._.DS_Store
+* ._.classpath
+* ._.project
+* ._.settings
+* ._AndroidManifest.xml
+* ._assets
+* ._bin
+* ._gen
+* ._project.properties
+* ._res
+* ._src
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:18.0.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In FireBasketBall:
+* AndroidManifest.xml => fireBasketBall\src\main\AndroidManifest.xml
+* assets\ => fireBasketBall\src\main\assets\
+* jni\ => fireBasketBall\src\main\jni\
+* C:\Workspace\eclipse\Sample1_3\src\ => fireBasketBall\src\main\java\
+* C:\Workspace\eclipse\Sample1_3\src\._com => fireBasketBall\src\main\resources\._com
+* C:\Workspace\eclipse\Sample1_3\src\com\._bn => fireBasketBall\src\main\resources\com\._bn
+* C:\Workspace\eclipse\Sample1_3\src\com\bn\._Sample1_3 => fireBasketBall\src\main\resources\com\bn\._Sample1_3
+In PerlinNoiseTool:
+* src\ => perlinNoiseTool\src\main\java\
+* src\._com => perlinNoiseTool\src\main\resources\._com
+* src\com\._bn => perlinNoiseTool\src\main\resources\com\._bn
+In Sample10_1:
+* AndroidManifest.xml => sample10_1\src\main\AndroidManifest.xml
+* assets\ => sample10_1\src\main\assets\
+* lint.xml => sample10_1\lint.xml
+* res\ => sample10_1\src\main\res\
+* src\ => sample10_1\src\main\java\
+* src\._com => sample10_1\src\main\resources\._com
+* src\com\._bn => sample10_1\src\main\resources\com\._bn
+* src\com\bn\._Sample10_1 => sample10_1\src\main\resources\com\bn\._Sample10_1
+In Sample10_2:
+* AndroidManifest.xml => sample10_2\src\main\AndroidManifest.xml
+* assets\ => sample10_2\src\main\assets\
+* lint.xml => sample10_2\lint.xml
+* res\ => sample10_2\src\main\res\
+* src\ => sample10_2\src\main\java\
+* src\._com => sample10_2\src\main\resources\._com
+* src\com\._bn => sample10_2\src\main\resources\com\._bn
+* src\com\bn\._Sample10_2 => sample10_2\src\main\resources\com\bn\._Sample10_2
+In Sample10_3:
+* AndroidManifest.xml => sample10_3\src\main\AndroidManifest.xml
+* assets\ => sample10_3\src\main\assets\
+* lint.xml => sample10_3\lint.xml
+* res\ => sample10_3\src\main\res\
+* src\ => sample10_3\src\main\java\
+* src\._com => sample10_3\src\main\resources\._com
+* src\com\._bn => sample10_3\src\main\resources\com\._bn
+* src\com\bn\._Sample10_3 => sample10_3\src\main\resources\com\bn\._Sample10_3
+In Sample11_1:
+* AndroidManifest.xml => sample11_1\src\main\AndroidManifest.xml
+* assets\ => sample11_1\src\main\assets\
+* res\ => sample11_1\src\main\res\
+* src\ => sample11_1\src\main\java\
+* src\._com => sample11_1\src\main\resources\._com
+* src\com\._bn => sample11_1\src\main\resources\com\._bn
+* src\com\bn\._Sample11_1 => sample11_1\src\main\resources\com\bn\._Sample11_1
+In Sample11_2:
+* AndroidManifest.xml => sample11_2\src\main\AndroidManifest.xml
+* assets\ => sample11_2\src\main\assets\
+* res\ => sample11_2\src\main\res\
+* src\ => sample11_2\src\main\java\
+* src\._com => sample11_2\src\main\resources\._com
+* src\com\._bn => sample11_2\src\main\resources\com\._bn
+* src\com\bn\._Sample11_2 => sample11_2\src\main\resources\com\bn\._Sample11_2
+In Sample11_3:
+* AndroidManifest.xml => sample11_3\src\main\AndroidManifest.xml
+* assets\ => sample11_3\src\main\assets\
+* lint.xml => sample11_3\lint.xml
+* res\ => sample11_3\src\main\res\
+* src\ => sample11_3\src\main\java\
+* src\._com => sample11_3\src\main\resources\._com
+* src\com\._bn => sample11_3\src\main\resources\com\._bn
+* src\com\bn\._Sample11_3 => sample11_3\src\main\resources\com\bn\._Sample11_3
+In Sample11_3A:
+* AndroidManifest.xml => sample11_3A\src\main\AndroidManifest.xml
+* assets\ => sample11_3A\src\main\assets\
+* lint.xml => sample11_3A\lint.xml
+* res\ => sample11_3A\src\main\res\
+* src\ => sample11_3A\src\main\java\
+* src\._com => sample11_3A\src\main\resources\._com
+* src\com\._bn => sample11_3A\src\main\resources\com\._bn
+* src\com\bn\._Sample11_3A => sample11_3A\src\main\resources\com\bn\._Sample11_3A
+In Sample11_4:
+* AndroidManifest.xml => sample11_4\src\main\AndroidManifest.xml
+* assets\ => sample11_4\src\main\assets\
+* res\ => sample11_4\src\main\res\
+* src\ => sample11_4\src\main\java\
+* src\._com => sample11_4\src\main\resources\._com
+* src\com\._bn => sample11_4\src\main\resources\com\._bn
+* src\com\bn\._Sample11_4 => sample11_4\src\main\resources\com\bn\._Sample11_4
+In Sample11_5:
+* AndroidManifest.xml => sample11_5\src\main\AndroidManifest.xml
+* assets\ => sample11_5\src\main\assets\
+* res\ => sample11_5\src\main\res\
+* src\ => sample11_5\src\main\java\
+* src\._com => sample11_5\src\main\resources\._com
+* src\com\._bn => sample11_5\src\main\resources\com\._bn
+* src\com\bn\._Sample11_4 => sample11_5\src\main\resources\com\bn\._Sample11_4
+In Sample11_6:
+* AndroidManifest.xml => sample11_6\src\main\AndroidManifest.xml
+* assets\ => sample11_6\src\main\assets\
+* res\ => sample11_6\src\main\res\
+* src\ => sample11_6\src\main\java\
+* src\._com => sample11_6\src\main\resources\._com
+* src\com\._bn => sample11_6\src\main\resources\com\._bn
+* src\com\bn\._Sample11_6 => sample11_6\src\main\resources\com\bn\._Sample11_6
+In Sample11_6a:
+* AndroidManifest.xml => sample11_6a\src\main\AndroidManifest.xml
+* assets\ => sample11_6a\src\main\assets\
+* res\ => sample11_6a\src\main\res\
+* src\ => sample11_6a\src\main\java\
+* src\._com => sample11_6a\src\main\resources\._com
+* src\com\._bn => sample11_6a\src\main\resources\com\._bn
+* src\com\bn\._Sample11_6a => sample11_6a\src\main\resources\com\bn\._Sample11_6a
+In Sample12_1:
+* AndroidManifest.xml => sample12_1\src\main\AndroidManifest.xml
+* assets\ => sample12_1\src\main\assets\
+* res\ => sample12_1\src\main\res\
+* src\ => sample12_1\src\main\java\
+* src\._com => sample12_1\src\main\resources\._com
+* src\com\._bn => sample12_1\src\main\resources\com\._bn
+* src\com\bn\._Sample12_1 => sample12_1\src\main\resources\com\bn\._Sample12_1
+In Sample12_2:
+* ._Thumbs.db => ._thumbs.db
+* AndroidManifest.xml => sample12_2\src\main\AndroidManifest.xml
+* assets\ => sample12_2\src\main\assets\
+* res\ => sample12_2\src\main\res\
+* src\ => sample12_2\src\main\java\
+* src\._com => sample12_2\src\main\resources\._com
+* src\com\._bn => sample12_2\src\main\resources\com\._bn
+* src\com\bn\._Sample12_2 => sample12_2\src\main\resources\com\bn\._Sample12_2
+In Sample12_3:
+* AndroidManifest.xml => sample12_3\src\main\AndroidManifest.xml
+* assets\ => sample12_3\src\main\assets\
+* lint.xml => sample12_3\lint.xml
+* res\ => sample12_3\src\main\res\
+* src\ => sample12_3\src\main\java\
+* src\._com => sample12_3\src\main\resources\._com
+* src\com\._bn => sample12_3\src\main\resources\com\._bn
+* src\com\bn\._Sample12_3 => sample12_3\src\main\resources\com\bn\._Sample12_3
+* src\com\bn\._util => sample12_3\src\main\resources\com\bn\._util
+* src\com\bn\util\._screenscale => sample12_3\src\main\resources\com\bn\util\._screenscale
+In Sample12_4:
+* AndroidManifest.xml => sample12_4\src\main\AndroidManifest.xml
+* assets\ => sample12_4\src\main\assets\
+* lint.xml => sample12_4\lint.xml
+* res\ => sample12_4\src\main\res\
+* src\ => sample12_4\src\main\java\
+* src\._com => sample12_4\src\main\resources\._com
+* src\com\._bn => sample12_4\src\main\resources\com\._bn
+* src\com\bn\._Sample12_4 => sample12_4\src\main\resources\com\bn\._Sample12_4
+* src\com\bn\._util => sample12_4\src\main\resources\com\bn\._util
+* src\com\bn\util\._screenscale => sample12_4\src\main\resources\com\bn\util\._screenscale
+In Sample12_5:
+* AndroidManifest.xml => sample12_5\src\main\AndroidManifest.xml
+* assets\ => sample12_5\src\main\assets\
+* res\ => sample12_5\src\main\res\
+* src\ => sample12_5\src\main\java\
+* src\._com => sample12_5\src\main\resources\._com
+* src\com\._bn => sample12_5\src\main\resources\com\._bn
+* src\com\bn\._Sample12_5 => sample12_5\src\main\resources\com\bn\._Sample12_5
+In Sample1_4:
+* AndroidManifest.xml => sample1_4\src\main\AndroidManifest.xml
+* assets\ => sample1_4\src\main\assets\
+* res\ => sample1_4\src\main\res\
+* src\ => sample1_4\src\main\java\
+* src\._com => sample1_4\src\main\resources\._com
+* src\com\._bn => sample1_4\src\main\resources\com\._bn
+* src\com\bn\._Sample1_4 => sample1_4\src\main\resources\com\bn\._Sample1_4
+In Sample1_5:
+* AndroidManifest.xml => sample1_5\src\main\AndroidManifest.xml
+* assets\ => sample1_5\src\main\assets\
+* lint.xml => sample1_5\lint.xml
+* res\ => sample1_5\src\main\res\
+* src\ => sample1_5\src\main\java\
+* src\._com => sample1_5\src\main\resources\._com
+* src\com\._bn => sample1_5\src\main\resources\com\._bn
+* src\com\bn\._Sample1_5 => sample1_5\src\main\resources\com\bn\._Sample1_5
+In Sample1_6:
+* AndroidManifest.xml => sample1_6\src\main\AndroidManifest.xml
+* assets\ => sample1_6\src\main\assets\
+* lint.xml => sample1_6\lint.xml
+* res\ => sample1_6\src\main\res\
+* src\ => sample1_6\src\main\java\
+* src\._com => sample1_6\src\main\resources\._com
+* src\com\._bn => sample1_6\src\main\resources\com\._bn
+* src\com\bn\._Sample1_6 => sample1_6\src\main\resources\com\bn\._Sample1_6
+In Sample2_1:
+* AndroidManifest.xml => sample2_1\src\main\AndroidManifest.xml
+* assets\ => sample2_1\src\main\assets\
+* lint.xml => sample2_1\lint.xml
+* res\ => sample2_1\src\main\res\
+* src\ => sample2_1\src\main\java\
+* src\._com => sample2_1\src\main\resources\._com
+* src\com\._bn => sample2_1\src\main\resources\com\._bn
+* src\com\bn\._Sample2_1 => sample2_1\src\main\resources\com\bn\._Sample2_1
+In Sample2_2:
+* AndroidManifest.xml => sample2_2\src\main\AndroidManifest.xml
+* assets\ => sample2_2\src\main\assets\
+* res\ => sample2_2\src\main\res\
+* src\ => sample2_2\src\main\java\
+* src\._com => sample2_2\src\main\resources\._com
+* src\com\._bn => sample2_2\src\main\resources\com\._bn
+* src\com\bn\._Sample2_2 => sample2_2\src\main\resources\com\bn\._Sample2_2
+In Sample2_3:
+* AndroidManifest.xml => sample2_3\src\main\AndroidManifest.xml
+* assets\ => sample2_3\src\main\assets\
+* res\ => sample2_3\src\main\res\
+* src\ => sample2_3\src\main\java\
+* src\._com => sample2_3\src\main\resources\._com
+* src\com\._bn => sample2_3\src\main\resources\com\._bn
+* src\com\bn\._Sample2_3 => sample2_3\src\main\resources\com\bn\._Sample2_3
+In Sample2_4:
+* AndroidManifest.xml => sample2_4\src\main\AndroidManifest.xml
+* assets\ => sample2_4\src\main\assets\
+* lint.xml => sample2_4\lint.xml
+* res\ => sample2_4\src\main\res\
+* src\ => sample2_4\src\main\java\
+* src\._com => sample2_4\src\main\resources\._com
+* src\com\._bn => sample2_4\src\main\resources\com\._bn
+* src\com\bn\._Sample2_4 => sample2_4\src\main\resources\com\bn\._Sample2_4
+In Sample2_5:
+* AndroidManifest.xml => sample2_5\src\main\AndroidManifest.xml
+* assets\ => sample2_5\src\main\assets\
+* res\ => sample2_5\src\main\res\
+* src\ => sample2_5\src\main\java\
+* src\._com => sample2_5\src\main\resources\._com
+* src\com\._bn => sample2_5\src\main\resources\com\._bn
+* src\com\bn\._Sample2_5 => sample2_5\src\main\resources\com\bn\._Sample2_5
+In Sample2_6:
+* AndroidManifest.xml => sample2_6\src\main\AndroidManifest.xml
+* assets\ => sample2_6\src\main\assets\
+* res\ => sample2_6\src\main\res\
+* src\ => sample2_6\src\main\java\
+* src\._com => sample2_6\src\main\resources\._com
+* src\com\._bn => sample2_6\src\main\resources\com\._bn
+* src\com\bn\._Sample2_6 => sample2_6\src\main\resources\com\bn\._Sample2_6
+In Sample2_7:
+* AndroidManifest.xml => sample2_7\src\main\AndroidManifest.xml
+* assets\ => sample2_7\src\main\assets\
+* res\ => sample2_7\src\main\res\
+* src\ => sample2_7\src\main\java\
+* src\._com => sample2_7\src\main\resources\._com
+* src\com\._bn => sample2_7\src\main\resources\com\._bn
+* src\com\bn\._Sample2_7 => sample2_7\src\main\resources\com\bn\._Sample2_7
+In Sample3_1:
+* AndroidManifest.xml => sample3_1\src\main\AndroidManifest.xml
+* assets\ => sample3_1\src\main\assets\
+* lint.xml => sample3_1\lint.xml
+* res\ => sample3_1\src\main\res\
+* src\ => sample3_1\src\main\java\
+* src\._com => sample3_1\src\main\resources\._com
+* src\com\._bn => sample3_1\src\main\resources\com\._bn
+* src\com\bn\._Sample3_1 => sample3_1\src\main\resources\com\bn\._Sample3_1
+In Sample3_10:
+* AndroidManifest.xml => sample3_10\src\main\AndroidManifest.xml
+* assets\ => sample3_10\src\main\assets\
+* res\ => sample3_10\src\main\res\
+* src\ => sample3_10\src\main\java\
+* src\._com => sample3_10\src\main\resources\._com
+* src\com\._bn => sample3_10\src\main\resources\com\._bn
+* src\com\bn\._Sample3_10 => sample3_10\src\main\resources\com\bn\._Sample3_10
+In Sample3_11:
+* AndroidManifest.xml => sample3_11\src\main\AndroidManifest.xml
+* assets\ => sample3_11\src\main\assets\
+* res\ => sample3_11\src\main\res\
+* src\ => sample3_11\src\main\java\
+* src\._com => sample3_11\src\main\resources\._com
+* src\com\._bn => sample3_11\src\main\resources\com\._bn
+* src\com\bn\._Sample3_11 => sample3_11\src\main\resources\com\bn\._Sample3_11
+In Sample3_12:
+* AndroidManifest.xml => sample3_12\src\main\AndroidManifest.xml
+* assets\ => sample3_12\src\main\assets\
+* res\ => sample3_12\src\main\res\
+* src\ => sample3_12\src\main\java\
+* src\._com => sample3_12\src\main\resources\._com
+* src\com\._bn => sample3_12\src\main\resources\com\._bn
+* src\com\bn\._Sample3_12 => sample3_12\src\main\resources\com\bn\._Sample3_12
+* src\com\bn\Sample3_12\._tex3d => sample3_12\src\main\resources\com\bn\Sample3_12\._tex3d
+In Sample3_13:
+* AndroidManifest.xml => sample3_13\src\main\AndroidManifest.xml
+* assets\ => sample3_13\src\main\assets\
+* res\ => sample3_13\src\main\res\
+* src\ => sample3_13\src\main\java\
+* src\._com => sample3_13\src\main\resources\._com
+* src\com\._bn => sample3_13\src\main\resources\com\._bn
+* src\com\bn\._Sample3_13 => sample3_13\src\main\resources\com\bn\._Sample3_13
+In Sample3_14:
+* AndroidManifest.xml => sample3_14\src\main\AndroidManifest.xml
+* assets\ => sample3_14\src\main\assets\
+* lint.xml => sample3_14\lint.xml
+* res\ => sample3_14\src\main\res\
+* src\ => sample3_14\src\main\java\
+* src\._com => sample3_14\src\main\resources\._com
+* src\com\._bn => sample3_14\src\main\resources\com\._bn
+* src\com\bn\._Sample3_14 => sample3_14\src\main\resources\com\bn\._Sample3_14
+In Sample3_15:
+* AndroidManifest.xml => sample3_15\src\main\AndroidManifest.xml
+* assets\ => sample3_15\src\main\assets\
+* lint.xml => sample3_15\lint.xml
+* res\ => sample3_15\src\main\res\
+* src\ => sample3_15\src\main\java\
+* src\._com => sample3_15\src\main\resources\._com
+* src\com\._bn => sample3_15\src\main\resources\com\._bn
+* src\com\bn\._Sample3_15 => sample3_15\src\main\resources\com\bn\._Sample3_15
+In Sample3_16:
+* AndroidManifest.xml => sample3_16\src\main\AndroidManifest.xml
+* assets\ => sample3_16\src\main\assets\
+* lint.xml => sample3_16\lint.xml
+* res\ => sample3_16\src\main\res\
+* src\ => sample3_16\src\main\java\
+* src\._com => sample3_16\src\main\resources\._com
+* src\com\._bn => sample3_16\src\main\resources\com\._bn
+* src\com\bn\._Sample3_16 => sample3_16\src\main\resources\com\bn\._Sample3_16
+In Sample3_2:
+* AndroidManifest.xml => sample3_2\src\main\AndroidManifest.xml
+* assets\ => sample3_2\src\main\assets\
+* res\ => sample3_2\src\main\res\
+* src\ => sample3_2\src\main\java\
+* src\._com => sample3_2\src\main\resources\._com
+* src\com\._bn => sample3_2\src\main\resources\com\._bn
+* src\com\bn\._Sample3_2 => sample3_2\src\main\resources\com\bn\._Sample3_2
+In Sample3_3:
+* AndroidManifest.xml => sample3_3\src\main\AndroidManifest.xml
+* assets\ => sample3_3\src\main\assets\
+* res\ => sample3_3\src\main\res\
+* src\ => sample3_3\src\main\java\
+* src\._com => sample3_3\src\main\resources\._com
+* src\com\._bn => sample3_3\src\main\resources\com\._bn
+* src\com\bn\._Sample3_3 => sample3_3\src\main\resources\com\bn\._Sample3_3
+In Sample3_4:
+* AndroidManifest.xml => sample3_4\src\main\AndroidManifest.xml
+* assets\ => sample3_4\src\main\assets\
+* lint.xml => sample3_4\lint.xml
+* res\ => sample3_4\src\main\res\
+* src\ => sample3_4\src\main\java\
+* src\._com => sample3_4\src\main\resources\._com
+* src\com\._bn => sample3_4\src\main\resources\com\._bn
+* src\com\bn\._Sample3_4 => sample3_4\src\main\resources\com\bn\._Sample3_4
+In Sample3_5:
+* AndroidManifest.xml => sample3_5\src\main\AndroidManifest.xml
+* assets\ => sample3_5\src\main\assets\
+* res\ => sample3_5\src\main\res\
+* src\ => sample3_5\src\main\java\
+* src\._com => sample3_5\src\main\resources\._com
+* src\com\._bn => sample3_5\src\main\resources\com\._bn
+* src\com\bn\._Sample3_5 => sample3_5\src\main\resources\com\bn\._Sample3_5
+In Sample3_5A:
+* AndroidManifest.xml => sample3_5A\src\main\AndroidManifest.xml
+* assets\ => sample3_5A\src\main\assets\
+* res\ => sample3_5A\src\main\res\
+* src\ => sample3_5A\src\main\java\
+* src\._com => sample3_5A\src\main\resources\._com
+* src\com\._bn => sample3_5A\src\main\resources\com\._bn
+* src\com\bn\._Sample3_5A => sample3_5A\src\main\resources\com\bn\._Sample3_5A
+In Sample3_6:
+* AndroidManifest.xml => sample3_6\src\main\AndroidManifest.xml
+* assets\ => sample3_6\src\main\assets\
+* res\ => sample3_6\src\main\res\
+* src\ => sample3_6\src\main\java\
+* src\._com => sample3_6\src\main\resources\._com
+* src\com\._bn => sample3_6\src\main\resources\com\._bn
+* src\com\bn\._Sample3_6 => sample3_6\src\main\resources\com\bn\._Sample3_6
+In Sample3_7:
+* AndroidManifest.xml => sample3_7\src\main\AndroidManifest.xml
+* assets\ => sample3_7\src\main\assets\
+* res\ => sample3_7\src\main\res\
+* src\ => sample3_7\src\main\java\
+* src\._com => sample3_7\src\main\resources\._com
+* src\com\._bn => sample3_7\src\main\resources\com\._bn
+* src\com\bn\._Sample3_7 => sample3_7\src\main\resources\com\bn\._Sample3_7
+In Sample3_8:
+* AndroidManifest.xml => sample3_8\src\main\AndroidManifest.xml
+* assets\ => sample3_8\src\main\assets\
+* res\ => sample3_8\src\main\res\
+* src\ => sample3_8\src\main\java\
+* src\._com => sample3_8\src\main\resources\._com
+* src\com\._bn => sample3_8\src\main\resources\com\._bn
+* src\com\bn\._Sample3_8 => sample3_8\src\main\resources\com\bn\._Sample3_8
+In Sample3_9:
+* AndroidManifest.xml => sample3_9\src\main\AndroidManifest.xml
+* assets\ => sample3_9\src\main\assets\
+* res\ => sample3_9\src\main\res\
+* src\ => sample3_9\src\main\java\
+* src\._com => sample3_9\src\main\resources\._com
+* src\com\._bn => sample3_9\src\main\resources\com\._bn
+* src\com\bn\._Sample3_9 => sample3_9\src\main\resources\com\bn\._Sample3_9
+In Sample4_1:
+* AndroidManifest.xml => sample4_1\src\main\AndroidManifest.xml
+* assets\ => sample4_1\src\main\assets\
+* res\ => sample4_1\src\main\res\
+* src\ => sample4_1\src\main\java\
+* src\._com => sample4_1\src\main\resources\._com
+* src\com\._bn => sample4_1\src\main\resources\com\._bn
+* src\com\bn\._Sample4_1 => sample4_1\src\main\resources\com\bn\._Sample4_1
+In Sample4_2:
+* AndroidManifest.xml => sample4_2\src\main\AndroidManifest.xml
+* assets\ => sample4_2\src\main\assets\
+* lint.xml => sample4_2\lint.xml
+* res\ => sample4_2\src\main\res\
+* src\ => sample4_2\src\main\java\
+* src\._com => sample4_2\src\main\resources\._com
+* src\com\._bn => sample4_2\src\main\resources\com\._bn
+* src\com\bn\._Sample4_2 => sample4_2\src\main\resources\com\bn\._Sample4_2
+In Sample4_3:
+* AndroidManifest.xml => sample4_3\src\main\AndroidManifest.xml
+* assets\ => sample4_3\src\main\assets\
+* res\ => sample4_3\src\main\res\
+* src\ => sample4_3\src\main\java\
+* src\._com => sample4_3\src\main\resources\._com
+* src\com\._bn => sample4_3\src\main\resources\com\._bn
+* src\com\bn\._Sample4_3 => sample4_3\src\main\resources\com\bn\._Sample4_3
+In Sample4_4:
+* AndroidManifest.xml => sample4_4\src\main\AndroidManifest.xml
+* assets\ => sample4_4\src\main\assets\
+* res\ => sample4_4\src\main\res\
+* src\ => sample4_4\src\main\java\
+* src\._com => sample4_4\src\main\resources\._com
+* src\com\._bn => sample4_4\src\main\resources\com\._bn
+* src\com\bn\._Sample4_4 => sample4_4\src\main\resources\com\bn\._Sample4_4
+In Sample4_5:
+* AndroidManifest.xml => sample4_5\src\main\AndroidManifest.xml
+* assets\ => sample4_5\src\main\assets\
+* lint.xml => sample4_5\lint.xml
+* res\ => sample4_5\src\main\res\
+* src\ => sample4_5\src\main\java\
+* src\._com => sample4_5\src\main\resources\._com
+* src\com\._bn => sample4_5\src\main\resources\com\._bn
+* src\com\bn\._qkj => sample4_5\src\main\resources\com\bn\._qkj
+* src\com\bn\._Sample4_5 => sample4_5\src\main\resources\com\bn\._Sample4_5
+* src\com\bn\qkj\._util => sample4_5\src\main\resources\com\bn\qkj\._util
+In Sample4_6:
+* AndroidManifest.xml => sample4_6\src\main\AndroidManifest.xml
+* assets\ => sample4_6\src\main\assets\
+* lint.xml => sample4_6\lint.xml
+* res\ => sample4_6\src\main\res\
+* src\ => sample4_6\src\main\java\
+* src\._com => sample4_6\src\main\resources\._com
+* src\com\._bn => sample4_6\src\main\resources\com\._bn
+* src\com\bn\._qkj => sample4_6\src\main\resources\com\bn\._qkj
+* src\com\bn\._Sample4_6 => sample4_6\src\main\resources\com\bn\._Sample4_6
+* src\com\bn\qkj\._util => sample4_6\src\main\resources\com\bn\qkj\._util
+In Sample4_7:
+* AndroidManifest.xml => sample4_7\src\main\AndroidManifest.xml
+* assets\ => sample4_7\src\main\assets\
+* res\ => sample4_7\src\main\res\
+* src\ => sample4_7\src\main\java\
+* src\._com => sample4_7\src\main\resources\._com
+* src\com\._bn => sample4_7\src\main\resources\com\._bn
+* src\com\bn\._Sample4_7 => sample4_7\src\main\resources\com\bn\._Sample4_7
+In Sample4_8:
+* AndroidManifest.xml => sample4_8\src\main\AndroidManifest.xml
+* assets\ => sample4_8\src\main\assets\
+* libs\._android-support-v4.jar => sample4_8\libs\._android-support-v4.jar
+* lint.xml => sample4_8\lint.xml
+* res\ => sample4_8\src\main\res\
+* src\ => sample4_8\src\main\java\
+* src\._com => sample4_8\src\main\resources\._com
+* src\com\._bn => sample4_8\src\main\resources\com\._bn
+* src\com\bn\._Sample4_8 => sample4_8\src\main\resources\com\bn\._Sample4_8
+In Sample5_1:
+* AndroidManifest.xml => sample5_1\src\main\AndroidManifest.xml
+* assets\ => sample5_1\src\main\assets\
+* res\ => sample5_1\src\main\res\
+* src\ => sample5_1\src\main\java\
+* src\._com => sample5_1\src\main\resources\._com
+* src\com\._bn => sample5_1\src\main\resources\com\._bn
+* src\com\bn\._Sample5_1 => sample5_1\src\main\resources\com\bn\._Sample5_1
+In Sample5_10:
+* AndroidManifest.xml => sample5_10\src\main\AndroidManifest.xml
+* assets\ => sample5_10\src\main\assets\
+* res\ => sample5_10\src\main\res\
+* src\ => sample5_10\src\main\java\
+* src\._com => sample5_10\src\main\resources\._com
+* src\com\._bn => sample5_10\src\main\resources\com\._bn
+* src\com\bn\._Sample5_10 => sample5_10\src\main\resources\com\bn\._Sample5_10
+In Sample5_11:
+* AndroidManifest.xml => sample5_11\src\main\AndroidManifest.xml
+* assets\ => sample5_11\src\main\assets\
+* lint.xml => sample5_11\lint.xml
+* res\ => sample5_11\src\main\res\
+* src\ => sample5_11\src\main\java\
+* src\._com => sample5_11\src\main\resources\._com
+* src\com\._bn => sample5_11\src\main\resources\com\._bn
+* src\com\bn\._Sample5_11 => sample5_11\src\main\resources\com\bn\._Sample5_11
+In Sample5_12:
+* AndroidManifest.xml => sample5_12\src\main\AndroidManifest.xml
+* assets\ => sample5_12\src\main\assets\
+* lint.xml => sample5_12\lint.xml
+* res\ => sample5_12\src\main\res\
+* src\ => sample5_12\src\main\java\
+* src\._com => sample5_12\src\main\resources\._com
+* src\com\._bn => sample5_12\src\main\resources\com\._bn
+* src\com\bn\._Sample5_12 => sample5_12\src\main\resources\com\bn\._Sample5_12
+In Sample5_2:
+* AndroidManifest.xml => sample5_2\src\main\AndroidManifest.xml
+* assets\ => sample5_2\src\main\assets\
+* res\ => sample5_2\src\main\res\
+* src\ => sample5_2\src\main\java\
+* src\._com => sample5_2\src\main\resources\._com
+* src\com\._bn => sample5_2\src\main\resources\com\._bn
+* src\com\bn\._Sample5_2 => sample5_2\src\main\resources\com\bn\._Sample5_2
+In Sample5_3_V1:
+* AndroidManifest.xml => sample5_3_V1\src\main\AndroidManifest.xml
+* assets\ => sample5_3_V1\src\main\assets\
+* res\ => sample5_3_V1\src\main\res\
+* src\ => sample5_3_V1\src\main\java\
+* src\._com => sample5_3_V1\src\main\resources\._com
+* src\com\._bn => sample5_3_V1\src\main\resources\com\._bn
+* src\com\bn\._Sample5_3_V1 => sample5_3_V1\src\main\resources\com\bn\._Sample5_3_V1
+In Sample5_3_V2:
+* AndroidManifest.xml => sample5_3_V2\src\main\AndroidManifest.xml
+* assets\ => sample5_3_V2\src\main\assets\
+* res\ => sample5_3_V2\src\main\res\
+* src\ => sample5_3_V2\src\main\java\
+* src\._com => sample5_3_V2\src\main\resources\._com
+* src\com\._bn => sample5_3_V2\src\main\resources\com\._bn
+* src\com\bn\._Sample5_3_V2 => sample5_3_V2\src\main\resources\com\bn\._Sample5_3_V2
+In Sample5_3_V3:
+* AndroidManifest.xml => sample5_3_V3\src\main\AndroidManifest.xml
+* assets\ => sample5_3_V3\src\main\assets\
+* res\ => sample5_3_V3\src\main\res\
+* src\ => sample5_3_V3\src\main\java\
+* src\._com => sample5_3_V3\src\main\resources\._com
+* src\com\._bn => sample5_3_V3\src\main\resources\com\._bn
+* src\com\bn\._Sample5_3_V3 => sample5_3_V3\src\main\resources\com\bn\._Sample5_3_V3
+In Sample5_4:
+* AndroidManifest.xml => sample5_4\src\main\AndroidManifest.xml
+* assets\ => sample5_4\src\main\assets\
+* res\ => sample5_4\src\main\res\
+* src\ => sample5_4\src\main\java\
+* src\._com => sample5_4\src\main\resources\._com
+* src\com\._bn => sample5_4\src\main\resources\com\._bn
+* src\com\bn\._Sample5_4 => sample5_4\src\main\resources\com\bn\._Sample5_4
+In Sample5_5:
+* AndroidManifest.xml => sample5_5\src\main\AndroidManifest.xml
+* assets\ => sample5_5\src\main\assets\
+* lint.xml => sample5_5\lint.xml
+* res\ => sample5_5\src\main\res\
+* src\ => sample5_5\src\main\java\
+* src\._com => sample5_5\src\main\resources\._com
+* src\com\._bn => sample5_5\src\main\resources\com\._bn
+* src\com\bn\._Sample5_5 => sample5_5\src\main\resources\com\bn\._Sample5_5
+In Sample5_6:
+* AndroidManifest.xml => sample5_6\src\main\AndroidManifest.xml
+* assets\ => sample5_6\src\main\assets\
+* res\ => sample5_6\src\main\res\
+* src\ => sample5_6\src\main\java\
+* src\._com => sample5_6\src\main\resources\._com
+* src\com\._bn => sample5_6\src\main\resources\com\._bn
+* src\com\bn\._Sample5_6 => sample5_6\src\main\resources\com\bn\._Sample5_6
+In Sample5_7:
+* AndroidManifest.xml => sample5_7\src\main\AndroidManifest.xml
+* assets\ => sample5_7\src\main\assets\
+* lint.xml => sample5_7\lint.xml
+* res\ => sample5_7\src\main\res\
+* src\ => sample5_7\src\main\java\
+* src\._com => sample5_7\src\main\resources\._com
+* src\com\._bn => sample5_7\src\main\resources\com\._bn
+* src\com\bn\._Sample5_7 => sample5_7\src\main\resources\com\bn\._Sample5_7
+In Sample5_8:
+* AndroidManifest.xml => sample5_8\src\main\AndroidManifest.xml
+* assets\ => sample5_8\src\main\assets\
+* res\ => sample5_8\src\main\res\
+* src\ => sample5_8\src\main\java\
+* src\._com => sample5_8\src\main\resources\._com
+* src\com\._bn => sample5_8\src\main\resources\com\._bn
+* src\com\bn\._Sample5_8 => sample5_8\src\main\resources\com\bn\._Sample5_8
+In Sample5_9_V1:
+* AndroidManifest.xml => sample5_9_V1\src\main\AndroidManifest.xml
+* assets\ => sample5_9_V1\src\main\assets\
+* res\ => sample5_9_V1\src\main\res\
+* src\ => sample5_9_V1\src\main\java\
+* src\._com => sample5_9_V1\src\main\resources\._com
+* src\com\._bn => sample5_9_V1\src\main\resources\com\._bn
+* src\com\bn\._Sample5_9_V1 => sample5_9_V1\src\main\resources\com\bn\._Sample5_9_V1
+In Sample5_9_V2:
+* AndroidManifest.xml => sample5_9_V2\src\main\AndroidManifest.xml
+* assets\ => sample5_9_V2\src\main\assets\
+* res\ => sample5_9_V2\src\main\res\
+* src\ => sample5_9_V2\src\main\java\
+* src\._com => sample5_9_V2\src\main\resources\._com
+* src\com\._bn => sample5_9_V2\src\main\resources\com\._bn
+* src\com\bn\._Sample5_9_V2 => sample5_9_V2\src\main\resources\com\bn\._Sample5_9_V2
+In Sample6_1:
+* AndroidManifest.xml => sample6_1\src\main\AndroidManifest.xml
+* assets\ => sample6_1\src\main\assets\
+* lint.xml => sample6_1\lint.xml
+* res\ => sample6_1\src\main\res\
+* src\ => sample6_1\src\main\java\
+* src\._com => sample6_1\src\main\resources\._com
+* src\com\._bn => sample6_1\src\main\resources\com\._bn
+* src\com\bn\._Sample6_1 => sample6_1\src\main\resources\com\bn\._Sample6_1
+In Sample6_2:
+* AndroidManifest.xml => sample6_2\src\main\AndroidManifest.xml
+* assets\ => sample6_2\src\main\assets\
+* res\ => sample6_2\src\main\res\
+* src\ => sample6_2\src\main\java\
+* src\._com => sample6_2\src\main\resources\._com
+* src\com\._bn => sample6_2\src\main\resources\com\._bn
+* src\com\bn\._Sample6_2 => sample6_2\src\main\resources\com\bn\._Sample6_2
+In Sample6_3:
+* AndroidManifest.xml => sample6_3\src\main\AndroidManifest.xml
+* assets\ => sample6_3\src\main\assets\
+* res\ => sample6_3\src\main\res\
+* src\ => sample6_3\src\main\java\
+* src\._com => sample6_3\src\main\resources\._com
+* src\com\._bn => sample6_3\src\main\resources\com\._bn
+* src\com\bn\._Sample6_3 => sample6_3\src\main\resources\com\bn\._Sample6_3
+In Sample6_4:
+* AndroidManifest.xml => sample6_4\src\main\AndroidManifest.xml
+* assets\ => sample6_4\src\main\assets\
+* res\ => sample6_4\src\main\res\
+* src\ => sample6_4\src\main\java\
+* src\._com => sample6_4\src\main\resources\._com
+* src\com\._bn => sample6_4\src\main\resources\com\._bn
+* src\com\bn\._Sample6_4 => sample6_4\src\main\resources\com\bn\._Sample6_4
+In Sample6_5:
+* AndroidManifest.xml => sample6_5\src\main\AndroidManifest.xml
+* assets\ => sample6_5\src\main\assets\
+* res\ => sample6_5\src\main\res\
+* src\ => sample6_5\src\main\java\
+* src\._com => sample6_5\src\main\resources\._com
+* src\com\._bn => sample6_5\src\main\resources\com\._bn
+* src\com\bn\._Sample6_5 => sample6_5\src\main\resources\com\bn\._Sample6_5
+In Sample6_6:
+* AndroidManifest.xml => sample6_6\src\main\AndroidManifest.xml
+* assets\ => sample6_6\src\main\assets\
+* libs\._android-support-v4.jar => sample6_6\libs\._android-support-v4.jar
+* res\ => sample6_6\src\main\res\
+* src\ => sample6_6\src\main\java\
+* src\._com => sample6_6\src\main\resources\._com
+* src\com\._bn => sample6_6\src\main\resources\com\._bn
+* src\com\bn\._Sample6_6 => sample6_6\src\main\resources\com\bn\._Sample6_6
+* src\com\bn\._util => sample6_6\src\main\resources\com\bn\._util
+In Sample6_7:
+* AndroidManifest.xml => sample6_7\src\main\AndroidManifest.xml
+* assets\ => sample6_7\src\main\assets\
+* libs\._android-support-v4.jar => sample6_7\libs\._android-support-v4.jar
+* res\ => sample6_7\src\main\res\
+* src\ => sample6_7\src\main\java\
+* src\._com => sample6_7\src\main\resources\._com
+* src\com\._bn => sample6_7\src\main\resources\com\._bn
+* src\com\bn\._Sample6_7 => sample6_7\src\main\resources\com\bn\._Sample6_7
+* src\com\bn\._util => sample6_7\src\main\resources\com\bn\._util
+In Sample7_1:
+* AndroidManifest.xml => sample7_1\src\main\AndroidManifest.xml
+* assets\ => sample7_1\src\main\assets\
+* res\ => sample7_1\src\main\res\
+* src\ => sample7_1\src\main\java\
+* src\._com => sample7_1\src\main\resources\._com
+* src\com\._bn => sample7_1\src\main\resources\com\._bn
+* src\com\bn\._Sample7_1 => sample7_1\src\main\resources\com\bn\._Sample7_1
+In Sample7_2:
+* AndroidManifest.xml => sample7_2\src\main\AndroidManifest.xml
+* assets\ => sample7_2\src\main\assets\
+* res\ => sample7_2\src\main\res\
+* src\ => sample7_2\src\main\java\
+* src\._com => sample7_2\src\main\resources\._com
+* src\com\._bn => sample7_2\src\main\resources\com\._bn
+* src\com\bn\._Sample7_2 => sample7_2\src\main\resources\com\bn\._Sample7_2
+In Sample7_3:
+* AndroidManifest.xml => sample7_3\src\main\AndroidManifest.xml
+* assets\ => sample7_3\src\main\assets\
+* res\ => sample7_3\src\main\res\
+* src\ => sample7_3\src\main\java\
+* src\._com => sample7_3\src\main\resources\._com
+* src\com\._bn => sample7_3\src\main\resources\com\._bn
+* src\com\bn\._Sample7_3 => sample7_3\src\main\resources\com\bn\._Sample7_3
+In Sample7_4:
+* AndroidManifest.xml => sample7_4\src\main\AndroidManifest.xml
+* assets\ => sample7_4\src\main\assets\
+* res\ => sample7_4\src\main\res\
+* src\ => sample7_4\src\main\java\
+* src\._com => sample7_4\src\main\resources\._com
+* src\com\._bn => sample7_4\src\main\resources\com\._bn
+* src\com\bn\._Sample7_4 => sample7_4\src\main\resources\com\bn\._Sample7_4
+In Sample7_5:
+* AndroidManifest.xml => sample7_5\src\main\AndroidManifest.xml
+* assets\ => sample7_5\src\main\assets\
+* res\ => sample7_5\src\main\res\
+* src\ => sample7_5\src\main\java\
+* src\._com => sample7_5\src\main\resources\._com
+* src\com\._bn => sample7_5\src\main\resources\com\._bn
+* src\com\bn\._Sample7_5 => sample7_5\src\main\resources\com\bn\._Sample7_5
+In Sample7_6:
+* AndroidManifest.xml => sample7_6\src\main\AndroidManifest.xml
+* assets\ => sample7_6\src\main\assets\
+* res\ => sample7_6\src\main\res\
+* src\ => sample7_6\src\main\java\
+* src\._com => sample7_6\src\main\resources\._com
+* src\com\._bn => sample7_6\src\main\resources\com\._bn
+* src\com\bn\._Sample7_6 => sample7_6\src\main\resources\com\bn\._Sample7_6
+In Sample7_7:
+* AndroidManifest.xml => sample7_7\src\main\AndroidManifest.xml
+* assets\ => sample7_7\src\main\assets\
+* res\ => sample7_7\src\main\res\
+* src\ => sample7_7\src\main\java\
+* src\._com => sample7_7\src\main\resources\._com
+* src\com\._bn => sample7_7\src\main\resources\com\._bn
+* src\com\bn\._Sample7_7 => sample7_7\src\main\resources\com\bn\._Sample7_7
+In Sample7_8:
+* AndroidManifest.xml => sample7_8\src\main\AndroidManifest.xml
+* assets\ => sample7_8\src\main\assets\
+* res\ => sample7_8\src\main\res\
+* src\ => sample7_8\src\main\java\
+* src\._com => sample7_8\src\main\resources\._com
+* src\com\._bn => sample7_8\src\main\resources\com\._bn
+* src\com\bn\._Sample7_8 => sample7_8\src\main\resources\com\bn\._Sample7_8
+* src\com\bn\Sample7_8\._util => sample7_8\src\main\resources\com\bn\Sample7_8\._util
+In Sample8_1:
+* AndroidManifest.xml => sample8_1\src\main\AndroidManifest.xml
+* assets\ => sample8_1\src\main\assets\
+* jni\ => sample8_1\src\main\jni\
+* lint.xml => sample8_1\lint.xml
+* res\ => sample8_1\src\main\res\
+* src\ => sample8_1\src\main\java\
+* src\._com => sample8_1\src\main\resources\._com
+* src\com\._bn => sample8_1\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_1\src\main\resources\com\bn\._bullet
+In Sample8_10:
+* AndroidManifest.xml => sample8_10\src\main\AndroidManifest.xml
+* assets\ => sample8_10\src\main\assets\
+* jni\ => sample8_10\src\main\jni\
+* lint.xml => sample8_10\lint.xml
+* res\ => sample8_10\src\main\res\
+* src\ => sample8_10\src\main\java\
+* src\._com => sample8_10\src\main\resources\._com
+* src\com\._bn => sample8_10\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_10\src\main\resources\com\bn\._bullet
+In Sample8_11:
+* AndroidManifest.xml => sample8_11\src\main\AndroidManifest.xml
+* assets\ => sample8_11\src\main\assets\
+* jni\ => sample8_11\src\main\jni\
+* lint.xml => sample8_11\lint.xml
+* res\ => sample8_11\src\main\res\
+* src\ => sample8_11\src\main\java\
+* src\._com => sample8_11\src\main\resources\._com
+* src\com\._bn => sample8_11\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_11\src\main\resources\com\bn\._bullet
+In Sample8_12:
+* AndroidManifest.xml => sample8_12\src\main\AndroidManifest.xml
+* assets\ => sample8_12\src\main\assets\
+* jni\ => sample8_12\src\main\jni\
+* lint.xml => sample8_12\lint.xml
+* res\ => sample8_12\src\main\res\
+* src\ => sample8_12\src\main\java\
+* src\._com => sample8_12\src\main\resources\._com
+* src\com\._bn => sample8_12\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_12\src\main\resources\com\bn\._bullet
+In Sample8_13:
+* AndroidManifest.xml => sample8_13\src\main\AndroidManifest.xml
+* assets\ => sample8_13\src\main\assets\
+* jni\ => sample8_13\src\main\jni\
+* lint.xml => sample8_13\lint.xml
+* res\ => sample8_13\src\main\res\
+* src\ => sample8_13\src\main\java\
+* src\._com => sample8_13\src\main\resources\._com
+* src\com\._bn => sample8_13\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_13\src\main\resources\com\bn\._bullet
+In Sample8_14:
+* AndroidManifest.xml => sample8_14\src\main\AndroidManifest.xml
+* assets\ => sample8_14\src\main\assets\
+* jni\ => sample8_14\src\main\jni\
+* lint.xml => sample8_14\lint.xml
+* res\ => sample8_14\src\main\res\
+* src\ => sample8_14\src\main\java\
+* src\._com => sample8_14\src\main\resources\._com
+* src\com\._bn => sample8_14\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_14\src\main\resources\com\bn\._bullet
+In Sample8_14A:
+* AndroidManifest.xml => sample8_14A\src\main\AndroidManifest.xml
+* assets\ => sample8_14A\src\main\assets\
+* jni\ => sample8_14A\src\main\jni\
+* lint.xml => sample8_14A\lint.xml
+* res\ => sample8_14A\src\main\res\
+* src\ => sample8_14A\src\main\java\
+* src\._com => sample8_14A\src\main\resources\._com
+* src\com\._bn => sample8_14A\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_14A\src\main\resources\com\bn\._bullet
+In Sample8_15:
+* AndroidManifest.xml => sample8_15\src\main\AndroidManifest.xml
+* assets\ => sample8_15\src\main\assets\
+* jni\ => sample8_15\src\main\jni\
+* lint.xml => sample8_15\lint.xml
+* res\ => sample8_15\src\main\res\
+* src\ => sample8_15\src\main\java\
+* src\._com => sample8_15\src\main\resources\._com
+* src\com\._bn => sample8_15\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_15\src\main\resources\com\bn\._bullet
+In Sample8_16:
+* AndroidManifest.xml => sample8_16\src\main\AndroidManifest.xml
+* assets\ => sample8_16\src\main\assets\
+* jni\ => sample8_16\src\main\jni\
+* lint.xml => sample8_16\lint.xml
+* res\ => sample8_16\src\main\res\
+* src\ => sample8_16\src\main\java\
+* src\._com => sample8_16\src\main\resources\._com
+* src\com\._bn => sample8_16\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_16\src\main\resources\com\bn\._bullet
+In Sample8_17:
+* AndroidManifest.xml => sample8_17\src\main\AndroidManifest.xml
+* assets\ => sample8_17\src\main\assets\
+* jni\ => sample8_17\src\main\jni\
+* lint.xml => sample8_17\lint.xml
+* res\ => sample8_17\src\main\res\
+* src\ => sample8_17\src\main\java\
+* src\._com => sample8_17\src\main\resources\._com
+* src\com\._bn => sample8_17\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_17\src\main\resources\com\bn\._bullet
+In Sample8_2:
+* AndroidManifest.xml => sample8_2\src\main\AndroidManifest.xml
+* assets\ => sample8_2\src\main\assets\
+* jni\ => sample8_2\src\main\jni\
+* lint.xml => sample8_2\lint.xml
+* res\ => sample8_2\src\main\res\
+* src\ => sample8_2\src\main\java\
+* src\._com => sample8_2\src\main\resources\._com
+* src\com\._bn => sample8_2\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_2\src\main\resources\com\bn\._bullet
+In Sample8_3:
+* AndroidManifest.xml => sample8_3\src\main\AndroidManifest.xml
+* assets\ => sample8_3\src\main\assets\
+* jni\ => sample8_3\src\main\jni\
+* lint.xml => sample8_3\lint.xml
+* res\ => sample8_3\src\main\res\
+* src\ => sample8_3\src\main\java\
+* src\._com => sample8_3\src\main\resources\._com
+* src\com\._bn => sample8_3\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_3\src\main\resources\com\bn\._bullet
+In Sample8_4:
+* AndroidManifest.xml => sample8_4\src\main\AndroidManifest.xml
+* assets\ => sample8_4\src\main\assets\
+* jni\ => sample8_4\src\main\jni\
+* lint.xml => sample8_4\lint.xml
+* res\ => sample8_4\src\main\res\
+* src\ => sample8_4\src\main\java\
+* src\._com => sample8_4\src\main\resources\._com
+* src\com\._bn => sample8_4\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_4\src\main\resources\com\bn\._bullet
+In Sample8_5:
+* AndroidManifest.xml => sample8_5\src\main\AndroidManifest.xml
+* assets\ => sample8_5\src\main\assets\
+* jni\ => sample8_5\src\main\jni\
+* lint.xml => sample8_5\lint.xml
+* res\ => sample8_5\src\main\res\
+* src\ => sample8_5\src\main\java\
+* src\._com => sample8_5\src\main\resources\._com
+* src\com\._bn => sample8_5\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_5\src\main\resources\com\bn\._bullet
+In Sample8_6:
+* AndroidManifest.xml => sample8_6\src\main\AndroidManifest.xml
+* assets\ => sample8_6\src\main\assets\
+* jni\ => sample8_6\src\main\jni\
+* lint.xml => sample8_6\lint.xml
+* res\ => sample8_6\src\main\res\
+* src\ => sample8_6\src\main\java\
+* src\._com => sample8_6\src\main\resources\._com
+* src\com\._bn => sample8_6\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_6\src\main\resources\com\bn\._bullet
+In Sample8_7:
+* AndroidManifest.xml => sample8_7\src\main\AndroidManifest.xml
+* assets\ => sample8_7\src\main\assets\
+* jni\ => sample8_7\src\main\jni\
+* lint.xml => sample8_7\lint.xml
+* res\ => sample8_7\src\main\res\
+* src\ => sample8_7\src\main\java\
+* src\._com => sample8_7\src\main\resources\._com
+* src\com\._bn => sample8_7\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_7\src\main\resources\com\bn\._bullet
+In Sample8_8:
+* AndroidManifest.xml => sample8_8\src\main\AndroidManifest.xml
+* assets\ => sample8_8\src\main\assets\
+* jni\ => sample8_8\src\main\jni\
+* lint.xml => sample8_8\lint.xml
+* res\ => sample8_8\src\main\res\
+* src\ => sample8_8\src\main\java\
+* src\._com => sample8_8\src\main\resources\._com
+* src\com\._bn => sample8_8\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_8\src\main\resources\com\bn\._bullet
+In Sample8_9:
+* AndroidManifest.xml => sample8_9\src\main\AndroidManifest.xml
+* assets\ => sample8_9\src\main\assets\
+* jni\ => sample8_9\src\main\jni\
+* lint.xml => sample8_9\lint.xml
+* res\ => sample8_9\src\main\res\
+* src\ => sample8_9\src\main\java\
+* src\._com => sample8_9\src\main\resources\._com
+* src\com\._bn => sample8_9\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample8_9\src\main\resources\com\bn\._bullet
+In Sample9_1:
+* AndroidManifest.xml => sample9_1\src\main\AndroidManifest.xml
+* assets\ => sample9_1\src\main\assets\
+* lint.xml => sample9_1\lint.xml
+* res\ => sample9_1\src\main\res\
+* src\ => sample9_1\src\main\java\
+* src\._com => sample9_1\src\main\resources\._com
+* src\com\._bn => sample9_1\src\main\resources\com\._bn
+* src\com\bn\._Sample9_1 => sample9_1\src\main\resources\com\bn\._Sample9_1
+In Sample9_2:
+* AndroidManifest.xml => sample9_2\src\main\AndroidManifest.xml
+* assets\ => sample9_2\src\main\assets\
+* lint.xml => sample9_2\lint.xml
+* res\ => sample9_2\src\main\res\
+* src\ => sample9_2\src\main\java\
+* src\._com => sample9_2\src\main\resources\._com
+* src\com\._bn => sample9_2\src\main\resources\com\._bn
+* src\com\bn\._Sample9_2 => sample9_2\src\main\resources\com\bn\._Sample9_2
+In Sample9_3:
+* AndroidManifest.xml => sample9_3\src\main\AndroidManifest.xml
+* assets\ => sample9_3\src\main\assets\
+* lint.xml => sample9_3\lint.xml
+* res\ => sample9_3\src\main\res\
+* src\ => sample9_3\src\main\java\
+* src\._com => sample9_3\src\main\resources\._com
+* src\com\._bn => sample9_3\src\main\resources\com\._bn
+* src\com\bn\._joint => sample9_3\src\main\resources\com\bn\._joint
+* src\com\bn\._ms3d => sample9_3\src\main\resources\com\bn\._ms3d
+* src\com\bn\joint\._anmi => sample9_3\src\main\resources\com\bn\joint\._anmi
+* src\com\bn\joint\anmi\._ex2 => sample9_3\src\main\resources\com\bn\joint\anmi\._ex2
+* src\com\bn\ms3d\._core => sample9_3\src\main\resources\com\bn\ms3d\._core
+* src\com\bn\ms3d\._io => sample9_3\src\main\resources\com\bn\ms3d\._io
+* src\com\bn\ms3d\._mathutil => sample9_3\src\main\resources\com\bn\ms3d\._mathutil
+* src\com\bn\ms3d\._texutil => sample9_3\src\main\resources\com\bn\ms3d\._texutil
+In Sample9_4:
+* AndroidManifest.xml => sample9_4\src\main\AndroidManifest.xml
+* assets\ => sample9_4\src\main\assets\
+* jni\ => sample9_4\src\main\jni\
+* lint.xml => sample9_4\lint.xml
+* res\ => sample9_4\src\main\res\
+* src\ => sample9_4\src\main\java\
+* src\._com => sample9_4\src\main\resources\._com
+* src\com\._bn => sample9_4\src\main\resources\com\._bn
+* src\com\bn\._bullet => sample9_4\src\main\resources\com\bn\._bullet
+In Sample9_5:
+* AndroidManifest.xml => sample9_5\src\main\AndroidManifest.xml
+* assets\ => sample9_5\src\main\assets\
+* libs\._android-support-v4.jar => sample9_5\libs\._android-support-v4.jar
+* libs\._bnggdhJar.jar => sample9_5\libs\._bnggdhJar.jar
+* libs\bnggdhJar.jar => sample9_5\libs\bnggdhJar.jar
+* lint.xml => sample9_5\lint.xml
+* res\ => sample9_5\src\main\res\
+* src\ => sample9_5\src\main\java\
+* src\._com => sample9_5\src\main\resources\._com
+* src\com\._bn => sample9_5\src\main\resources\com\._bn
+* src\com\bn\._bnggdh => sample9_5\src\main\resources\com\bn\._bnggdh
+* src\com\bn\._obj => sample9_5\src\main\resources\com\bn\._obj
+In SampleVAO:
+* AndroidManifest.xml => sampleVAO\src\main\AndroidManifest.xml
+* assets\ => sampleVAO\src\main\assets\
+* res\ => sampleVAO\src\main\res\
+* src\ => sampleVAO\src\main\java\
+* src\._com => sampleVAO\src\main\resources\._com
+* src\com\._bn => sampleVAO\src\main\resources\com\._bn
+* src\com\bn\._Sample1_2 => sampleVAO\src\main\resources\com\bn\._Sample1_2
+In SampleVBO:
+* ._.DS_Store => ._.ds_store
+* AndroidManifest.xml => sampleVBO\src\main\AndroidManifest.xml
+* assets\ => sampleVBO\src\main\assets\
+* res\ => sampleVBO\src\main\res\
+* src\ => sampleVBO\src\main\java\
+* src\._com => sampleVBO\src\main\resources\._com
+* src\com\._bn => sampleVBO\src\main\resources\com\._bn
+* src\com\bn\._Sample1_1 => sampleVBO\src\main\resources\com\bn\._Sample1_1
+In Sample1_3:
+* AndroidManifest.xml => sample1_3\src\main\AndroidManifest.xml
+* assets\ => sample1_3\src\main\assets\
+* res\ => sample1_3\src\main\res\
+* src\ => sample1_3\src\main\java\
+* src\._com => sample1_3\src\main\resources\._com
+* src\com\._bn => sample1_3\src\main\resources\com\._bn
+* src\com\bn\._Sample1_3 => sample1_3\src\main\resources\com\bn\._Sample1_3
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

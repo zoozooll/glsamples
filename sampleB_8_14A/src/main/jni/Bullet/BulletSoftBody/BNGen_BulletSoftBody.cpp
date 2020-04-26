@@ -1,0 +1,6 @@
+#include "btDefaultSoftBodySolver.cpp"
+#include "btSoftBodyConcaveCollisionAlgorithm.cpp"
+#include "btSoftBodyRigidBodyCollisionConfiguration.cpp"
+#include "btSoftRigidCollisionAlgorithm.cpp"
+#include "btSoftRigidDynamicsWorld.cpp"
+#include "btSoftSoftCollisionAlgorithm.cpp"

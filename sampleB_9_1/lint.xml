@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="InlinedApi" severity="ignore">
+        <ignore path="src/com/bn/Sample7_1/LoadedObjectVertexNormalTexture.java" />
+    </issue>
+    <issue id="NewApi" severity="ignore" />
+</lint>
