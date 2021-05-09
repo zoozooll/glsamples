@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.bn.Sample5_1"
-        minSdkVersion 18
+        minSdkVersion 25
         targetSdkVersion 29
     }
 
@@ -16,4 +16,9 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.aar', '*.jar'], exclude: [])
+    implementation project(path: ':iglview')
 }

@@ -6,7 +6,7 @@ android {
 
     defaultConfig {
         applicationId "com.bn.sample9_5"
-        minSdkVersion 8
+        minSdkVersion 25
         targetSdkVersion 29
     }
 

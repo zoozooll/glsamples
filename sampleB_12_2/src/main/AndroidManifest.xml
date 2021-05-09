@@ -11,7 +11,7 @@
             </intent-filter>
         </activity>
     </application>
-    <uses-sdk android:targetSdkVersion="21" android:minSdkVersion="18"></uses-sdk>
+    <uses-sdk android:targetSdkVersion="21"></uses-sdk>
     <!-- 声明需要拍照权限 -->
     <uses-permission android:name="android.permission.CAMERA"/>
     <uses-feature android:name = "android.hardware.camera" />
