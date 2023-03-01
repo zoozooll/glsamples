@@ -208,5 +208,3 @@ include ':sampleVAO'
 include ':sampleVBO'
 include ':sampleB_1_3'
 
-include ':iglview'
-project(":iglview").projectDir = new File("D:\\Workspaces\\android_studio\\RealGLTextureView\\iglview")

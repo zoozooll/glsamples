@@ -183,7 +183,7 @@ import android.graphics.BitmapFactory;
             lovo_qt=LoadUtil.loadFromFileVertexOnly("qt.obj", MySurfaceView.this.getResources(),MySurfaceView.this);
             lovo_yh=LoadUtil.loadFromFileVertexOnly("yh.obj", MySurfaceView.this.getResources(),MySurfaceView.this);
             //显示阴影贴图的纹理矩形
-            tyTexId=initTexture(R.raw.wl);
+            tyTexId=initTexture(R.raw.wll);
         }
     }
 	

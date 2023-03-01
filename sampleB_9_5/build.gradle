@@ -2,7 +2,6 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 29
-    buildToolsVersion "29.0.2"
 
     defaultConfig {
         applicationId "com.bn.sample9_5"
@@ -19,8 +18,8 @@ android {
 }
 
 dependencies {
-    compile 'com.android.support:support-v4:19.1.0'
-    compile files('libs/._android-support-v4.jar')
-    compile files('libs/._bnggdhJar.jar')
-    compile files('libs/bnggdhJar.jar')
+    implementation 'com.android.support:support-v4:19.1.0'
+    implementation files('libs/._android-support-v4.jar')
+    implementation files('libs/._bnggdhJar.jar')
+    implementation files('libs/bnggdhJar.jar')
 }
