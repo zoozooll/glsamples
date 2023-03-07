@@ -18,8 +18,7 @@
 */
 -->
 
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.bn.sample14_2">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
             android:label="@string/sample14_2_activity">
         <activity android:name="Sample14_2Activity"

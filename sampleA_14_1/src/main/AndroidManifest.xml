@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.bn.sample14_1">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
             android:label="@string/sample14_1_activity">
         <activity android:name="Sample14_1Activity"

@@ -7,10 +7,6 @@ android {
         applicationId "com.bn.Sample13_1"
         minSdkVersion 18
         targetSdkVersion 29
-        compileOptions {
-            sourceCompatibility JavaVersion.VERSION_1_5
-            targetCompatibility JavaVersion.VERSION_1_5
-        }
     }
 
     buildTypes {
@@ -19,4 +15,5 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
         }
     }
+    namespace 'com.bn.Sample13_1'
 }
